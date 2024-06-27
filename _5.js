@@ -1,3 +1,4 @@
+const answersText = `
 过程话SQL的特点是（ ）。:::C
 The data（）includes the function of updating data on a database， and retrieving data from a database.:::A
 （ ）has become a fact of modern life， with millions of people now shopping on-line.:::B
@@ -98,3 +99,4 @@ Integration （ ）is the process of verifying that the components of a system w
 数字信封技术能够（）。:::A
 若连接数据库过程中需要指定用户名和密码，则这种安全措施属于（ ）。:::D
 网络安全的基本目标包括（）。:::A
+`;
